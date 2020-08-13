@@ -1,0 +1,12 @@
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.exe
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.csprojAssemblyReference.cache
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.AssemblyInfoInputs.cache
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.AssemblyInfo.cs
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.deps.json
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.runtimeconfig.json
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.runtimeconfig.dev.json
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.dll
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\bin\Debug\netcoreapp3.1\TopicRecieverApp.pdb
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.dll
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.pdb
+C:\Users\Haleema Sadia\source\repos\TopicRecieverApp\TopicRecieverApp\obj\Debug\netcoreapp3.1\TopicRecieverApp.genruntimeconfig.cache

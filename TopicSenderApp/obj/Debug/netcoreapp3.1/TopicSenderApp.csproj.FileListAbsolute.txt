@@ -1,0 +1,12 @@
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.exe
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.csprojAssemblyReference.cache
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.AssemblyInfoInputs.cache
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.AssemblyInfo.cs
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.deps.json
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.runtimeconfig.json
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.runtimeconfig.dev.json
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.dll
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\bin\Debug\netcoreapp3.1\TopicSenderApp.pdb
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.dll
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.pdb
+C:\Users\Haleema Sadia\source\repos\TopicSenderApp\TopicSenderApp\obj\Debug\netcoreapp3.1\TopicSenderApp.genruntimeconfig.cache
